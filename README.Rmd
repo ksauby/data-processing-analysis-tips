@@ -3,7 +3,7 @@ Data Processing and Analysis Tips
 
 ## Use package "ProjectTemplate" to set up your data analysis project
 
-Use package "magrittr"
+## Use package "magrittr"
 
 ## Use package "dplyr"
 
