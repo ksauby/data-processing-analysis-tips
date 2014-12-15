@@ -1,4 +1,10 @@
-data-processing-analysis-tips
+Data Processing and Analysis Tips
 =============================
 
-Data Processing and Analysis Tips
+# Use "ProjectTemplate" to set up your data analysis project
+
+# Use package "dplyr"
+
+## Sort your data with *arrange*
+
+## Subset your data with *filter*
